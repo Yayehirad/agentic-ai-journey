@@ -4,3 +4,7 @@ __pycache__/
 .env
 logs/
 db/
+
+# Module 02: keep personal notes out of the repo, but keep the example
+modules/02_tool_loop/notes/*
+!modules/02_tool_loop/notes/example.txt
