@@ -11,3 +11,6 @@ modules/02_tool_loop/notes/*
 
 # Module 03: keep personal notes out of the repo
 modules/03_chat_agent/notes/*
+
+# Module 05: keep PDFs out of the repo
+modules/05_rag/pdfs/
