@@ -8,3 +8,6 @@ db/
 # Module 02: keep personal notes out of the repo, but keep the example
 modules/02_tool_loop/notes/*
 !modules/02_tool_loop/notes/example.txt
+
+# Module 03: keep personal notes out of the repo
+modules/03_chat_agent/notes/*
